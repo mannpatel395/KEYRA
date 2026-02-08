@@ -1,6 +1,10 @@
 # KEYRA
 A compact 2×2 KMK-based macro pad built on the XIAO RP2040, featuring a diode-protected key matrix, rotary encoder, and OLED display. Designed as a clean, USB-powered control device for macros, navigation, and everyday hardware tinkering.
 
+## Preview:
+
+<img width="1198" height="788" alt="image" src="https://github.com/user-attachments/assets/99e01877-feff-4cfd-8fb9-10637db03f62" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Features:
@@ -19,7 +23,8 @@ EC11 Rotary encoder
 
 Everthing combines with 4 M3 bolts and it has 2 printable parts.
 
-<img width="1918" height="1007" alt="Screenshot 2026-02-07 070431" src="https://github.com/user-attachments/assets/e746d951-d18a-4181-a062-3d063d91130b" />
+<img width="994" height="752" alt="image" src="https://github.com/user-attachments/assets/a95fa92b-f9aa-42ba-b220-6a758b2e06e5" />
+
 
 Hell Fushion360!!
 
