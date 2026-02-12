@@ -39,6 +39,11 @@ Schematic
 
 
 
+Footprints
+<img width="967" height="302" alt="image" src="https://github.com/user-attachments/assets/65a8be9a-beed-4f7c-86e0-15c1424ec3b9" />
+
+
+
 PCB
 <img width="454" height="486" alt="Screenshot 2026-02-07 070455" src="https://github.com/user-attachments/assets/e6fe7728-d90c-4ada-be9f-46f1276249d9" />
 
